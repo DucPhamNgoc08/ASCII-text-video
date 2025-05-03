@@ -6,9 +6,8 @@ html, body {
     color: #FFF;
     font-size: 12pt;
     line-height: 10pt;
-  }
+}
   
-  canvas {
+canvas {
     display: block;
-  }
-  
+}
