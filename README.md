@@ -21,8 +21,8 @@ Open `sketch.js` and locate the `density` variable:
 
 ```js
 // Example density options:
-// const density = "Ñ@#W$9876543210?!abc;:+=-,._          "; // Extended alphanumeric palette
-// const density = '       .:-i|=+%O#@';               // Bourke’s short grayscale ramp
+const density = "Ñ@#W$9876543210?!abc;:+=-,._          "; // Extended alphanumeric palette
+const density = '       .:-i|=+%O#@';               // Bourke’s short grayscale ramp
 const density = '        .:░▒▓█';                        // Unicode block shading ramp
 ```
 
